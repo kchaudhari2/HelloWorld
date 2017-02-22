@@ -1,9 +1,10 @@
+package main;
 
 public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		Message msg = new Message();
+		HelloMessage msg = new HelloMessage();
 		System.out.println(msg.MessageText());		
 	
 	}
