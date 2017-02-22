@@ -10,6 +10,8 @@
    create new "bin" folder for compiles class file -->
  <target name="clean">
   <delete dir="bin" />
-  <mkdir dir="bin" />
+  <mkdir dir="bin" />	
+ 	
  </target>
+
 </project>
