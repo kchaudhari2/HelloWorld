@@ -5,7 +5,7 @@ public class HelloMessage {
 	private String message;
 	
 	public String MessageText(){
-		message = new String("Hello World from Portland OR");
+		message = new String("Hello World");
 		return message;
 	}
 
